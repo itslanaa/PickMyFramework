@@ -52,8 +52,8 @@ The Fuzzy MADM Framework Analyzer is a research-grade tool that applies advanced
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fuzzy-madm-framework-analyzer.git
-   cd fuzzy-madm-framework-analyzer
+   git clone https://github.com/itslanaa/PickMyFramework.git
+   cd PickMyFramework
    ```
 
 2. **Install dependencies**
@@ -224,7 +224,7 @@ SOFTWARE.
 ## 🔗 Links
 
 - **Live Demo**: [https://beautiful-paprenjak-6ab44a.netlify.app/](https://beautiful-paprenjak-6ab44a.netlify.app)
-- **Documentation**: [https://github.com/yourusername/fuzzy-madm-framework-analyzer/wiki](https://github.com/yourusername/fuzzy-madm-framework-analyzer/wiki)
+- **Documentation**: [https://github.com/itslanaa/PickMyFramework/wiki](https://github.com/itslanaa/PickMyFramework/wiki)
 - **Issues**:
 [https://github.com/itslanaa/PickMyFramework/issues](https://github.com/itslanaa/PickMyFramework/issues)
 - **Discussions**: [https://github.com/itslanaa/PickMyFramework/discussions](https://github.com/itslanaa/PickMyFramework/discussions)
