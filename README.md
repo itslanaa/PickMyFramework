@@ -2,7 +2,7 @@
 
 A sophisticated web application that analyzes and ranks web development frameworks using Fuzzy Multi-Attribute Decision Making (MADM) methodology with real GitHub data.
 
-![Framework Analysis Dashboard](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+![Framework Analysis Dashboard](https://raw.githubusercontent.com/itslanaa/km-developer/refs/heads/main/assets/20250628_015414.jpg)
 
 ## 🎯 About
 
