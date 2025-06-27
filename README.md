@@ -189,7 +189,7 @@ This tool is designed for academic research and can be cited in scientific paper
 If you use this tool in your research, please cite:
 
 ```
-Fuzzy MADM Framework Analyzer. (2024). A web-based tool for multi-attribute 
+Kaka Maulana Abdillah. (2025). A web-based tool for multi-attribute 
 decision making in framework selection using fuzzy logic and GitHub data.
 ```
 
@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Fuzzy MADM Framework Analyzer
+Copyright (c) 2025 Kaka Maulana Abdillah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -223,10 +223,11 @@ SOFTWARE.
 
 ## 🔗 Links
 
-- **Live Demo**: [https://fuzzy-madm-analyzer.netlify.app](https://fuzzy-madm-analyzer.netlify.app)
+- **Live Demo**: [https://beautiful-paprenjak-6ab44a.netlify.app/](https://beautiful-paprenjak-6ab44a.netlify.app)
 - **Documentation**: [https://github.com/yourusername/fuzzy-madm-framework-analyzer/wiki](https://github.com/yourusername/fuzzy-madm-framework-analyzer/wiki)
-- **Issues**: [https://github.com/yourusername/fuzzy-madm-framework-analyzer/issues](https://github.com/yourusername/fuzzy-madm-framework-analyzer/issues)
-- **Discussions**: [https://github.com/yourusername/fuzzy-madm-framework-analyzer/discussions](https://github.com/yourusername/fuzzy-madm-framework-analyzer/discussions)
+- **Issues**:
+[https://github.com/itslanaa/PickMyFramework/issues](https://github.com/itslanaa/PickMyFramework/issues)
+- **Discussions**: [https://github.com/itslanaa/PickMyFramework/discussions](https://github.com/itslanaa/PickMyFramework/discussions)
 
 ## 🙏 Acknowledgments
 
@@ -240,8 +241,8 @@ SOFTWARE.
 For support, questions, or feature requests:
 
 - 📧 Email: support@fuzzy-madm-analyzer.com
-- 💬 GitHub Discussions: [Start a discussion](https://github.com/yourusername/fuzzy-madm-framework-analyzer/discussions)
-- 🐛 Bug Reports: [Create an issue](https://github.com/yourusername/fuzzy-madm-framework-analyzer/issues)
+- 💬 GitHub Discussions: [Start a discussion](https://github.com/itslanaa/PickMyFramework/discussions)
+- 🐛 Bug Reports: [Create an issue](https://github.com/itslanaa/PickMyFramework/issues)
 
 ---
 
