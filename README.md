@@ -240,7 +240,7 @@ SOFTWARE.
 
 For support, questions, or feature requests:
 
-- 📧 Email: support@fuzzy-madm-analyzer.com
+- 📧 Email: support@km-dev.or.id
 - 💬 GitHub Discussions: [Start a discussion](https://github.com/itslanaa/PickMyFramework/discussions)
 - 🐛 Bug Reports: [Create an issue](https://github.com/itslanaa/PickMyFramework/issues)
 
